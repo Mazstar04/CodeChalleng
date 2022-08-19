@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
-int[] gas = { 2, 3, 4 };
-int[] cost = { 3, 4, 3 };
+int[] gas = { 1, 2, 3, 4, 5 };
+int[] cost = { 3, 4, 5, 1, 2 };
 Console.WriteLine(StationIndex(gas, cost));
 static int StationIndex(int[] gas, int[] cost)
 {
@@ -8,7 +8,7 @@ static int StationIndex(int[] gas, int[] cost)
     for (int i = 0; i < gas.Length; i++)
     {
         int currentGas = 0;
-        for (int j = i; j < i + gas.Length; j++)
+        for (int j = i; j < (i + gas.Length); j++)
         {
             if (j < (i + gas.Length - 1))
             {
@@ -19,13 +19,18 @@ static int StationIndex(int[] gas, int[] cost)
                 }
                 else
                 {
-                    currentGas += gas[j%gas.Length];
-                    currentGas -= cost[j%gas.Length];
+
+                    currentGas += gas[j % gas.Length];
+                    currentGas -= cost[j % gas.Length];
                 }
-                if(currentGas < 0) break;
+                if (currentGas < 0) break;
             }
             else
             {
+                currentGas += gas[j % gas.Length];
+                currentGas -= cost[j % gas.Length];
+                if (currentGas < 0) break;
+
                 index = i;
                 break;
             }
