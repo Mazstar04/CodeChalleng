@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\CodeChallenge2\Gas Station\bin\Debug\net6.0\Gas Station.exe
+C:\Users\HP\Desktop\CodeChallenge2\Gas Station\bin\Debug\net6.0\Gas Station.deps.json
+C:\Users\HP\Desktop\CodeChallenge2\Gas Station\bin\Debug\net6.0\Gas Station.runtimeconfig.json
+C:\Users\HP\Desktop\CodeChallenge2\Gas Station\bin\Debug\net6.0\Gas Station.dll
+C:\Users\HP\Desktop\CodeChallenge2\Gas Station\bin\Debug\net6.0\ref\Gas Station.dll
+C:\Users\HP\Desktop\CodeChallenge2\Gas Station\bin\Debug\net6.0\Gas Station.pdb
+C:\Users\HP\Desktop\CodeChallenge2\Gas Station\obj\Debug\net6.0\Gas Station.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\CodeChallenge2\Gas Station\obj\Debug\net6.0\Gas Station.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\CodeChallenge2\Gas Station\obj\Debug\net6.0\Gas Station.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\CodeChallenge2\Gas Station\obj\Debug\net6.0\Gas Station.AssemblyInfo.cs
+C:\Users\HP\Desktop\CodeChallenge2\Gas Station\obj\Debug\net6.0\Gas Station.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CodeChallenge2\Gas Station\obj\Debug\net6.0\Gas Station.dll
+C:\Users\HP\Desktop\CodeChallenge2\Gas Station\obj\Debug\net6.0\ref\Gas Station.dll
+C:\Users\HP\Desktop\CodeChallenge2\Gas Station\obj\Debug\net6.0\Gas Station.pdb
+C:\Users\HP\Desktop\CodeChallenge2\Gas Station\obj\Debug\net6.0\Gas Station.genruntimeconfig.cache

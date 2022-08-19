@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\CodeChallenge2\Player\bin\Debug\net6.0\Player.exe
+C:\Users\HP\Desktop\CodeChallenge2\Player\bin\Debug\net6.0\Player.deps.json
+C:\Users\HP\Desktop\CodeChallenge2\Player\bin\Debug\net6.0\Player.runtimeconfig.json
+C:\Users\HP\Desktop\CodeChallenge2\Player\bin\Debug\net6.0\Player.dll
+C:\Users\HP\Desktop\CodeChallenge2\Player\bin\Debug\net6.0\ref\Player.dll
+C:\Users\HP\Desktop\CodeChallenge2\Player\bin\Debug\net6.0\Player.pdb
+C:\Users\HP\Desktop\CodeChallenge2\Player\obj\Debug\net6.0\Player.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\CodeChallenge2\Player\obj\Debug\net6.0\Player.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\CodeChallenge2\Player\obj\Debug\net6.0\Player.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\CodeChallenge2\Player\obj\Debug\net6.0\Player.AssemblyInfo.cs
+C:\Users\HP\Desktop\CodeChallenge2\Player\obj\Debug\net6.0\Player.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CodeChallenge2\Player\obj\Debug\net6.0\Player.dll
+C:\Users\HP\Desktop\CodeChallenge2\Player\obj\Debug\net6.0\ref\Player.dll
+C:\Users\HP\Desktop\CodeChallenge2\Player\obj\Debug\net6.0\Player.pdb
+C:\Users\HP\Desktop\CodeChallenge2\Player\obj\Debug\net6.0\Player.genruntimeconfig.cache
